@@ -62,7 +62,8 @@ namespace WebApplication2
             {
                 endpoints.MapControllers();
             });
-          
+
+        }
     }
-    }
+}
 
